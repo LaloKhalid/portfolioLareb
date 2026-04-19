@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /c/Users/lareb/portfolioLareb/*.png /c/Users/lareb/portfolioLareb/*.jpg /c/Users/lareb/portfolioLareb/*.jpeg)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
