@@ -2,8 +2,20 @@ import moviesImg from '../../MoviesProject.png'
 import scrumImg from '../../ScrumBoard.png'
 import jokeImg from '../../jokeGenerator.png'
 import travelImg from '../../TravelApp.png'
+import agdaImg from '../../agda.png'
 
 const projects = [
+
+
+  {
+  title: 'AGDA Training App',
+  description:
+    'A fitness training application designed to help users track workouts, manage training programs, and monitor their fitness progress through an intuitive and responsive interface.',
+  image: agdaImg,
+  tags: [ 'JavaScript', 'CSS', 'Fitness'],
+  link: 'https://agda-training-app.vercel.app/',
+  featured: true,
+},
   {
     title: 'Grit Movies',
     description:
